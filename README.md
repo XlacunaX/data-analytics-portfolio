@@ -1,2 +1,6 @@
 # data-analytics-portfolio
-Portfolio of data analytics projects.
+Hi, I'm Shambhavi Tewari
+
+Master of Analytics Graduate – RMIT University (2025)
+Melbourne, Australia
+Aspiring Data Analyst
