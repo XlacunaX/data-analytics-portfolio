@@ -71,3 +71,6 @@ Seasonal time series modelling of monthly car sales using SARIMA and residual di
 #### Machine Learning Model
 Predictive modelling project using Python and Scikit-learn.
 [View Project](./machine-learning-model)
+#### Butterfly Biodiversity Analysis – Excel
+Exploratory data analysis of butterfly biodiversity in Melbourne using Excel pivot tables and charts.
+[View Project](./excel-butterfly-biodiversity-analysis)
