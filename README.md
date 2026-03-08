@@ -61,5 +61,7 @@ This GitHub profile includes academic and practical analytics projects, such as:
 
 ### Time Series Analysis – Share Market Forecasting
 Time series modelling and forecasting using regression trend models in R.
-
 [View Project](./time-series-analysis)
+### ARIMA Forecasting – Global Temperature Analysis
+Time series modelling of global land temperature anomalies (1850–2023) using ARIMA models, including stationarity testing, differencing, and model selection using AIC/BIC.
+[View Project](./arima-temperature-forecasting)
