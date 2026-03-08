@@ -30,14 +30,3 @@ Based on residual diagnostics and model fit:
 ## Forecasting
 The selected model was used to **forecast the next 5 trading days**.
 
-## Repository Structure
-time-series-analysis
-│
-├── code
-│ └── time_series_analysis.R
-│
-├── data
-│ └── assignment1Data2024.csv
-│
-└── report
-└── TIME SERIES ANALYSIS REPORT.pd
