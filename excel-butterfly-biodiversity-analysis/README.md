@@ -31,6 +31,3 @@ The analysis included:
 - Seasonal temperature variations influenced butterfly activity patterns.
 
 
-## Author
-Shambhavi Tewari  
-Master of Analytics – RMIT University
