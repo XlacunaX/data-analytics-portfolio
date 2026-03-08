@@ -59,15 +59,15 @@ This GitHub profile includes academic and practical analytics projects, such as:
 
 ## Projects
 
-# Time Series Analysis – Share Market Forecasting
+#### Time Series Analysis – Share Market Forecasting
 Time series modelling and forecasting using regression trend models in R.
 [View Project](./time-series-analysis)
-# ARIMA Forecasting – Global Temperature Analysis
+#### ARIMA Forecasting – Global Temperature Analysis
 Time series modelling of global land temperature anomalies (1850–2023) using ARIMA models, including stationarity testing, differencing, and model selection using AIC/BIC.
 [View Project](./arima-temperature-forecasting)
-# SARIMA Forecasting – Car Sales in Quebec
+#### SARIMA Forecasting – Car Sales in Quebec
 Seasonal time series modelling of monthly car sales using SARIMA and residual diagnostics.
 [View Project](./sarima-car-sales-forecasting)
-# Machine Learning Model
+#### Machine Learning Model
 Predictive modelling project using Python and Scikit-learn.
 [View Project](./machine-learning-model)
