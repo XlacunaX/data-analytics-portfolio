@@ -65,3 +65,6 @@ Time series modelling and forecasting using regression trend models in R.
 ### ARIMA Forecasting – Global Temperature Analysis
 Time series modelling of global land temperature anomalies (1850–2023) using ARIMA models, including stationarity testing, differencing, and model selection using AIC/BIC.
 [View Project](./arima-temperature-forecasting)
+### SARIMA Forecasting – Car Sales in Quebec
+Seasonal time series modelling of monthly car sales using SARIMA and residual diagnostics.
+[View Project](./sarima-car-sales-forecasting)
