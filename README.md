@@ -11,7 +11,7 @@ I hold a Master of Analytics degree and have a solid background in machine learn
 
 I utilized SQL, Python, R, SAS, Excel, and Minitab extensively during my degree to clean, transform, analyze, and model complex datasets.
 
-Technical Skills
+## Technical Skills
 
 Programming & Tools:
 
@@ -27,7 +27,7 @@ Programming & Tools:
 
 - Minitab
 
-Core Skills:
+## Core Skills:
 
 - Data Cleaning & Transformation
 
@@ -56,3 +56,10 @@ This GitHub profile includes academic and practical analytics projects, such as:
 - Statistical quality control and process capability analysis
 
 - Applied research analytics project
+
+## Projects
+
+### Time Series Analysis – Share Market Forecasting
+Time series modelling and forecasting using regression trend models in R.
+
+[View Project](./time-series-analysis)
