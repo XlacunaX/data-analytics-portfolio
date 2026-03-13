@@ -86,3 +86,6 @@ Logistic regression modelling to analyse respiratory disease risk among cotton i
 #### Bike Demand Forecasting – Regression Analysis
 Regression modelling to analyse and predict bike rental demand using weather and seasonal predictors.
 [View Project](./bike-demand-regression-analysis)
+#### Data Cleaning and Exploration – Python
+Data preparation and exploratory analysis using Pandas, NumPy, and Seaborn.
+[View Project](./python-data-cleaning-analysis)
