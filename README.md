@@ -89,3 +89,6 @@ Regression modelling to analyse and predict bike rental demand using weather and
 #### Data Cleaning and Exploration – Python
 Data preparation and exploratory analysis using Pandas, NumPy, and Seaborn.
 [View Project](./python-data-cleaning-analysis)
+#### Wine Quality Machine Learning Modelling – Python
+Regression, classification, and clustering analysis using Scikit-learn.
+[View Project](./practical-data-science-ml-modeling)
