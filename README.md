@@ -95,3 +95,6 @@ Regression, classification, and clustering analysis using Scikit-learn.
 #### Python Apartment Booking System
 Menu-driven Python program for managing apartment bookings, supplementary services, and reward points.
 [View Project](./python-apartment-booking-system)
+#### Python Apartment Booking System (OOP)
+Object-oriented Python booking system managing apartment reservations, bundles, and reward points with CSV-based data persistence.
+[View Project](./python-apartment-booking-system-oop)
