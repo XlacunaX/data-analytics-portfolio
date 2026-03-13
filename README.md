@@ -98,3 +98,6 @@ Menu-driven Python program for managing apartment bookings, supplementary servic
 #### Python Apartment Booking System (OOP)
 Object-oriented Python booking system managing apartment reservations, bundles, and reward points with CSV-based data persistence.
 [View Project](./python-apartment-booking-system-oop)
+#### Python Pymon Adventure Game
+Object-oriented Python game featuring map navigation, inventory management, and a rock–paper–scissors battle system.
+[View Project](./python-pymon-game-oop)
