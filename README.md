@@ -92,3 +92,6 @@ Data preparation and exploratory analysis using Pandas, NumPy, and Seaborn.
 #### Wine Quality Machine Learning Modelling – Python
 Regression, classification, and clustering analysis using Scikit-learn.
 [View Project](./practical-data-science-ml-modeling)
+#### Python Apartment Booking System
+Menu-driven Python program for managing apartment bookings, supplementary services, and reward points.
+[View Project](./python-apartment-booking-system)
