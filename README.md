@@ -74,3 +74,15 @@ Predictive modelling project using Python and Scikit-learn.
 #### Butterfly Biodiversity Analysis – Excel
 Exploratory data analysis of butterfly biodiversity in Melbourne using Excel pivot tables and charts.
 [View Project](./excel-butterfly-biodiversity-analysis)
+#### Regression Analysis – Air Quality & Electricity Consumption
+Statistical modelling using linear regression, ANOVA testing, and residual diagnostics in R.
+[View Project](./regression-analysis-model)
+#### Multiple Regression Analysis – Drug Retention & Sales Prediction
+Multiple linear regression modelling, ANOVA testing, multicollinearity diagnostics, and model selection using R.
+[View Project](./multiple-regression-model)
+#### Logistic Regression – Occupational Health Risk Analysis
+Logistic regression modelling to analyse respiratory disease risk among cotton industry workers.
+[View Project](./logistic-regression-health-risk-analysis)
+#### Bike Demand Forecasting – Regression Analysis
+Regression modelling to analyse and predict bike rental demand using weather and seasonal predictors.
+[View Project](./bike-demand-regression-analysis)
